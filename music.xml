@@ -1,0 +1,13 @@
+<rss version="2.0">
+  <channel>
+    <title>Ma Zik Perso</title>
+
+    <item>
+      <title>Track 1</title>
+      <enclosure
+        url="https://drive.google.com/uc?export=download&id=1PIhQDIKMI7VWA832uWCjHjfB2NdQEXHH"
+        type="audio/mpeg"/>
+    </item>
+
+  </channel>
+</rss>
