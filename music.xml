@@ -7,27 +7,24 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <description>Playlist privée</description>
   <language>fr</language>
 
-  <!-- Image du podcast -->
-  <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/IMG_1548.jpeg"/>
+  <!-- Image podcast (OBLIGATOIRE pour la vignette) -->
+  <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
 
   <image>
-    <url>https://raw.githubusercontent.com/Darki68/music/main/IMG_1548.jpeg</url>
-    <title>Rap Yns</title>
+    <url>https://raw.githubusercontent.com/Darki68/music/main/podium.jpg</url>
+    <title>Ma Zik Perso</title>
     <link>https://darki68.github.io/music/</link>
   </image>
 
-  <!-- Musique 1 -->
   <item>
-    <title>Track 1</title>
-    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/IMG_1548.jpeg"/>
+    <title>+971</title>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/+971.mp3"
       type="audio/mpeg"/>
   </item>
   
   <item>
-    <title>Track 2</title>
-    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/IMG_1548.jpeg"/>
+    <title>Melodrama</title>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/melo.mp3"
       type="audio/mpeg"/>
