@@ -3,8 +3,8 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
-  <title>Ma Zik Perso</title>
-  <description>Playlist privée</description>
+  <title>Rap Yns</title>
+  <description>musique rap</description>
   <language>fr</language>
   <link>https://darki68.github.io/music/</link>
 
@@ -14,34 +14,32 @@
 
   <image>
     <url>https://raw.githubusercontent.com/Darki68/music/main/podium.jpg</url>
-    <title>Ma Zik Perso</title>
+    <title>Rap Yns</title>
     <link>https://darki68.github.io/music/</link>
   </image>
 
-  <!-- MUSIQUE 1 -->
   <item>
     <title>+971</title>
     <itunes:title>+971</itunes:title>
     <itunes:author>Nom de la chanteuse</itunes:author>
-    <itunes:subtitle>Nom de la chanteuse</itunes:subtitle>
-    <itunes:summary>Description du son, vibes, année, tout ce que tu veux</itunes:summary>
+    <itunes:summary>Descr du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
     <guid>971</guid>
+    <pubDate>Mon, 16 Dec 2024 18:00:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/%2B971.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
 
-  <!-- MUSIQUE 2 -->
   <item>
     <title>Melodrama</title>
     <itunes:title>Melodrama</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:subtitle>Nom du chanteur</itunes:subtitle>
-    <itunes:summary>Description du son, prod, mood, etc</itunes:summary>
+    <itunes:summary>Descr du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
     <guid>melodrama</guid>
+    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/melo.mp3"
       type="audio/mpeg"
