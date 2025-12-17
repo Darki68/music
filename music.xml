@@ -12,7 +12,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
   <image>
     <url>https://raw.githubusercontent.com/Darki68/music/main/IMG_1548.jpeg</url>
-    <title>Ma Zik Perso</title>
+    <title>Rap Yns</title>
     <link>https://darki68.github.io/music/</link>
   </image>
 
@@ -24,13 +24,12 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       url="https://raw.githubusercontent.com/Darki68/music/main/+971.mp3"
       type="audio/mpeg"/>
   </item>
-
-  <!-- Musique 2 (exemple, tu peux en ajouter autant que tu veux) -->
+  
   <item>
     <title>Track 2</title>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/IMG_1548.jpeg"/>
     <enclosure
-      url="https://raw.githubusercontent.com/Darki68/music/main/track2.mp3"
+      url="https://raw.githubusercontent.com/Darki68/music/main/melo.mp3"
       type="audio/mpeg"/>
   </item>
 
