@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
 <channel>
   <title>Ma Zik Perso</title>
   <description>Playlist privée</description>
   <language>fr</language>
+  <link>https://darki68.github.io/music/</link>
 
-  <!-- Image podcast (OBLIGATOIRE pour la vignette) -->
+  <itunes:author>Darki</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
   <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
 
   <image>
     <url>https://raw.githubusercontent.com/Darki68/music/main/podium.jpg</url>
-    <title>Rap Yns</title>
+    <title>Ma Zik Perso</title>
     <link>https://darki68.github.io/music/</link>
   </image>
 
   <item>
     <title>+971</title>
+    <guid>971</guid>
     <enclosure
-      url="https://raw.githubusercontent.com/Darki68/music/main/+971.mp3"
-      type="audio/mpeg"/>
+      url="https://raw.githubusercontent.com/Darki68/music/main/%2B971.mp3"
+      type="audio/mpeg"
+      length="12345678"/>
   </item>
-  
+
   <item>
     <title>Melodrama</title>
+    <guid>melodrama</guid>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/melo.mp3"
-      type="audio/mpeg"/>
+      type="audio/mpeg"
+      length="12345678"/>
   </item>
 
 </channel>
