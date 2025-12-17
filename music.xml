@@ -18,8 +18,14 @@
     <link>https://darki68.github.io/music/</link>
   </image>
 
+  <!-- MUSIQUE 1 -->
   <item>
     <title>+971</title>
+    <itunes:title>+971</itunes:title>
+    <itunes:author>Nom de la chanteuse</itunes:author>
+    <itunes:subtitle>Nom de la chanteuse</itunes:subtitle>
+    <itunes:summary>Description du son, vibes, année, tout ce que tu veux</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
     <guid>971</guid>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/%2B971.mp3"
@@ -27,8 +33,14 @@
       length="12345678"/>
   </item>
 
+  <!-- MUSIQUE 2 -->
   <item>
     <title>Melodrama</title>
+    <itunes:title>Melodrama</itunes:title>
+    <itunes:author>Nom du chanteur</itunes:author>
+    <itunes:subtitle>Nom du chanteur</itunes:subtitle>
+    <itunes:summary>Description du son, prod, mood, etc</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
     <guid>melodrama</guid>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/melo.mp3"
