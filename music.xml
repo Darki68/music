@@ -32,7 +32,7 @@
       length="12345678"/>
   </item>
 
-  <item>
+    <item>
     <title>Melodrama</title>
     <itunes:title>Melodrama</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
@@ -45,6 +45,97 @@
       type="audio/mpeg"
       length="12345678"/>
   </item>
+
+
+    <item>
+    <title>Melodrama</title>
+    <itunes:title>Melodrama</itunes:title>
+    <itunes:author>Nom du chanteur</itunes:author>
+    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
+    <guid>melodrama</guid>
+    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <enclosure
+      url="https://raw.githubusercontent.com/Darki68/music/main/kartier.mp3"
+      type="audio/mpeg"
+      length="12345678"/>
+  </item>
+
+
+    <item>
+    <title>Melodrama</title>
+    <itunes:title>Melodrama</itunes:title>
+    <itunes:author>Nom du chanteur</itunes:author>
+    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
+    <guid>melodrama</guid>
+    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <enclosure
+      url="https://raw.githubusercontent.com/Darki68/music/main/adriano.mp3"
+      type="audio/mpeg"
+      length="12345678"/>
+  </item>
+
+
+    <item>
+    <title>Melodrama</title>
+    <itunes:title>Melodrama</itunes:title>
+    <itunes:author>Nom du chanteur</itunes:author>
+    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
+    <guid>melodrama</guid>
+    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <enclosure
+      url="https://raw.githubusercontent.com/Darki68/music/main/Viano.mp3"
+      type="audio/mpeg"
+      length="12345678"/>
+  </item>
+
+
+    <item>
+    <title>Melodrama</title>
+    <itunes:title>Melodrama</itunes:title>
+    <itunes:author>Nom du chanteur</itunes:author>
+    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
+    <guid>melodrama</guid>
+    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <enclosure
+      url="https://raw.githubusercontent.com/Darki68/music/main/Werenoi Ft. Damso, Ninho - Triple V (Clip Officiel).mp3"
+      type="audio/mpeg"
+      length="12345678"/>
+  </item>
+
+
+    <item>
+    <title>Melodrama</title>
+    <itunes:title>Melodrama</itunes:title>
+    <itunes:author>Nom du chanteur</itunes:author>
+    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
+    <guid>melodrama</guid>
+    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <enclosure
+      url="https://raw.githubusercontent.com/Darki68/music/main/ver.mp3"
+      type="audio/mpeg"
+      length="12345678"/>
+  </item>
+
+
+    <item>
+    <title>Melodrama</title>
+    <itunes:title>Melodrama</itunes:title>
+    <itunes:author>Nom du chanteur</itunes:author>
+    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
+    <guid>melodrama</guid>
+    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <enclosure
+      url="https://raw.githubusercontent.com/Darki68/music/main/run.mp3"
+      type="audio/mpeg"
+      length="12345678"/>
+  </item>
+  
 
 </channel>
 </rss>
