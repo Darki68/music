@@ -4,13 +4,18 @@
 
 <channel>
   <title>Rap Yns</title>
-  <description>musique rap</description>
-  <language>fr</language>
+  <description>Musique rap</description>
+  <language>fr-FR</language>
   <link>https://darki68.github.io/music/</link>
 
   <itunes:author>Darki</itunes:author>
   <itunes:explicit>false</itunes:explicit>
   <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
+
+  <itunes:category text="Music"/>
+  <itunes:owner>
+    <itunes:name>Darki</itunes:name>
+  </itunes:owner>
 
   <image>
     <url>https://raw.githubusercontent.com/Darki68/music/main/podium.jpg</url>
@@ -22,9 +27,9 @@
     <title>+971</title>
     <itunes:title>+971</itunes:title>
     <itunes:author>Nom de la chanteuse</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>971</guid>
+    <guid isPermaLink="false">rapyns-001</guid>
     <pubDate>Mon, 16 Dec 2024 18:00:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/%2B971.mp3"
@@ -32,13 +37,13 @@
       length="12345678"/>
   </item>
 
-    <item>
+  <item>
     <title>Melodrama</title>
     <itunes:title>Melodrama</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>melodrama</guid>
+    <guid isPermaLink="false">rapyns-002</guid>
     <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/melo.mp3"
@@ -46,110 +51,103 @@
       length="12345678"/>
   </item>
 
-
-    <item>
-    <title>O'Kartier</title>
-    <itunes:title>O'Kartier</itunes:title>
+  <item>
+    <title>O Kartier</title>
+    <itunes:title>O Kartier</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>melodrama</guid>
-    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <guid isPermaLink="false">rapyns-003</guid>
+    <pubDate>Mon, 15 Dec 2024 21:00:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/kartier.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
 
-
-    <item>
+  <item>
     <title>Adriano</title>
     <itunes:title>Adriano</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>melodrama</guid>
-    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <guid isPermaLink="false">rapyns-004</guid>
+    <pubDate>Mon, 15 Dec 2024 21:30:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/adriano.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
 
-
-    <item>
+  <item>
     <title>Viano</title>
     <itunes:title>Viano</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>melodrama</guid>
-    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <guid isPermaLink="false">rapyns-005</guid>
+    <pubDate>Mon, 15 Dec 2024 22:00:00 GMT</pubDate>
     <enclosure
-      url="https://raw.githubusercontent.com/Darki68/music/main/Viano.mp3"
+      url="https://raw.githubusercontent.com/Darki68/music/main/viano.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
 
-
-    <item>
+  <item>
     <title>Triple V</title>
     <itunes:title>Triple V</itunes:title>
-    <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:author>Werenoi ft. Damso, Ninho</itunes:author>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>melodrama</guid>
-    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <guid isPermaLink="false">rapyns-006</guid>
+    <pubDate>Mon, 15 Dec 2024 22:30:00 GMT</pubDate>
     <enclosure
-      url="https://raw.githubusercontent.com/Darki68/music/main/Werenoi Ft. Damso, Ninho - Triple V (Clip Officiel).mp3"
+      url="https://raw.githubusercontent.com/Darki68/music/main/triple_v.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
 
-
-    <item>
+  <item>
     <title>Dans un verre</title>
     <itunes:title>Dans un verre</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>melodrama</guid>
-    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <guid isPermaLink="false">rapyns-007</guid>
+    <pubDate>Mon, 15 Dec 2024 23:00:00 GMT</pubDate>
     <enclosure
-      url="https://raw.githubusercontent.com/Darki68/music/main/ver.mp3"
+      url="https://raw.githubusercontent.com/Darki68/music/main/verre.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
 
-
-    <item>
+  <item>
     <title>Run</title>
     <itunes:title>Run</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>melodrama</guid>
-    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <guid isPermaLink="false">rapyns-008</guid>
+    <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/run.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
 
-    <item>
+  <item>
     <title>Génération Impolie</title>
     <itunes:title>Génération Impolie</itunes:title>
     <itunes:author>Nom du chanteur</itunes:author>
-    <itunes:summary>Descr du son</itunes:summary>
+    <itunes:summary>Description du son</itunes:summary>
     <itunes:image href="https://raw.githubusercontent.com/Darki68/music/main/podium.jpg"/>
-    <guid>Génération Impolie</guid>
-    <pubDate>Mon, 15 Dec 2024 20:30:00 GMT</pubDate>
+    <guid isPermaLink="false">rapyns-009</guid>
+    <pubDate>Tue, 17 Dec 2024 00:30:00 GMT</pubDate>
     <enclosure
       url="https://raw.githubusercontent.com/Darki68/music/main/gen.mp3"
       type="audio/mpeg"
       length="12345678"/>
   </item>
-  
 
 </channel>
 </rss>
